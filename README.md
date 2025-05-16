@@ -1,2 +1,2 @@
 # GameProject-WhiteTrail-ColdPaws-WarmHeart
-Game Project Using C\
+Platformer Game Project Using predominantly C#
